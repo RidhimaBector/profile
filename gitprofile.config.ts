@@ -74,10 +74,10 @@ const CONFIG = {
     phone: '+65 93590237',
     email: 'ridhima001@e.ntu.edu.sg',
   },
-  resume: {
-    fileUrl:
+  //resume: {
+    //fileUrl:
       //'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
-  },
+  //},
   skills: [
     'Programming Languages: Python, MATLAB, C++, Java, R',
     'Machine Learning Frameworks: Pytorch, Tensorflow, Keras, Scikit-learn',
