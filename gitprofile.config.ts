@@ -87,11 +87,11 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'Nanyang Technological University, Singapore',
+      position: 'Research Fellow',
+      from: 'May 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      //companyLink: 'https://example.com',
     },
     {
       company: 'Company Name',
