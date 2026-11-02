@@ -28,7 +28,7 @@ const CONFIG = {
         projects: ['RidhimaBector/gammaDDPG', 'RidhimaBector/CollectiveEnvironmentPoisoning', 'RidhimaBector/ScalingEnvironmentPoisoning', 'RidhimaBector/AnatomyOfUncertainty'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
-    external: //{
+    external: {
       //header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       //projects: [
@@ -50,7 +50,7 @@ const CONFIG = {
         //},
       //],
     //},
-  //},
+  },
   seo: { title: 'Portfolio of Ridhima Bector', description: '', imageURL: '' },
   social: {
     linkedin: 'ridhimabector',
