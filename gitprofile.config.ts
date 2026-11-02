@@ -49,7 +49,7 @@ const CONFIG = {
           //link: 'https://example.com',
         //},
       //],
-    //},
+    },
   },
   seo: { title: 'Portfolio of Ridhima Bector', description: '', imageURL: '' },
   social: {
@@ -218,5 +218,4 @@ const CONFIG = {
 
   enablePWA: true,
 };
-}
 export default CONFIG;
